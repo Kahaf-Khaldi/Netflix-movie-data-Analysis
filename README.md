@@ -1,4 +1,3 @@
-# Netflix-movie-data-Analysis
 # Netflix Movie Data Analysis Project
 
 A comprehensive data analysis project exploring movie trends, genres, popularity, and other key insights from a dataset of Netflix movies.  
